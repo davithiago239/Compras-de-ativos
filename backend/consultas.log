@@ -1,0 +1,579 @@
+[2026-03-31 14:54:04] ERRO | Contexto: parse_excel | Detalhe: Colunas obrigatórias não encontradas: modelo, ultimo_preco, data_compra. Colunas presentes: Item, Descrição\Modelo, Marca
+[2026-03-31 14:54:15] ERRO | Contexto: parse_excel | Detalhe: Colunas obrigatórias não encontradas: modelo, ultimo_preco, data_compra. Colunas presentes: Item, Descrição\Modelo, Marca
+[2026-03-31 14:54:27] ERRO | Contexto: parse_excel | Detalhe: Colunas obrigatórias não encontradas: modelo, ultimo_preco, data_compra. Colunas presentes: Item, Descrição\Modelo, Marca
+[2026-03-31 14:57:47] UPLOAD | Arquivo: teste.xlsx | Produtos identificados: 61
+[2026-03-31 14:57:54] CONSULTA | Produto: Mouse | Modelo: Mouse sem fio USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:01] CONSULTA | Produto: Pelicula | Modelo: Pelicula de privacidade notebook 15polegadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:08] CONSULTA | Produto: Adaptador HDMI | Modelo: Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:15] CONSULTA | Produto: Cabo HDMI 2 MTS | Modelo: Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:22] CONSULTA | Produto: Cabo HDMI 10 MTS | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4. | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:29] CONSULTA | Produto: Carregador de celular | Modelo: Carregador Iphone 13 Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:37] CONSULTA | Produto: Carregador de Celular | Modelo: Carregador Xiomi  Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:50] CONSULTA | Produto: Conector keystone | Modelo: keystone Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:58:59] CONSULTA | Produto: Conector RJ45 | Modelo: Conector Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:07] CONSULTA | Produto: Headset | Modelo: Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:14] CONSULTA | Produto: Monitor 22" | Modelo: Monitor de 22 polegadas DELL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:21] CONSULTA | Produto: Bateria | Modelo: Bateria NOTEBOOK DELL LATITUDE 3480 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:28] CONSULTA | Produto: Adptador wi-fi | Modelo: TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:35] CONSULTA | Produto: Cabo Hdmi 10 mts | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:41] CONSULTA | Produto: Mochila para notebook | Modelo: Mochila Para Notebook 15.6 Essential 460-bctl Dell | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:48] CONSULTA | Produto: HUB USB | Modelo: Hub usb tipo c para USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 14:59:55] CONSULTA | Produto: Celular | Modelo: Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:02] CONSULTA | Produto: Teclado USB | Modelo: Teclado USB CC 10202017 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:10] CONSULTA | Produto: SSD | Modelo: SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:19] CONSULTA | Produto: Fonte para desktop | Modelo: Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:26] CONSULTA | Produto: Celular Xiaomi | Modelo: Redmi Note 13 Midnight Black 8Gb Ram 128Gb ROM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:31] CONSULTA | Produto: Alicate Decapar | Modelo: PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:37] CONSULTA | Produto: Cabo celular | Modelo: Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:42] CONSULTA | Produto: Espuma Headset | Modelo: Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:46] CONSULTA | Produto: Adaptador VGA para HDMI | Modelo: Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:52] CONSULTA | Produto: Durex | Modelo: Fita durex | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:00:56] CONSULTA | Produto: Xiaomi | Modelo: Pelicula para Xiaomi Note 11 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:01] CONSULTA | Produto: Apple | Modelo: Pelicula para Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:05] CONSULTA | Produto: Pelicula para smartphone | Modelo: Pelicula para smartphone | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:09] CONSULTA | Produto: Brother | Modelo: Etiqueta para etiquetadora | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:13] CONSULTA | Produto: HP | Modelo: Adaptador rede para usb | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:18] CONSULTA | Produto: Motorola | Modelo: Pelicula Motorola g84 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:22] CONSULTA | Produto: Samsung | Modelo: MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:27] CONSULTA | Produto: Intel | Modelo: MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:33] CONSULTA | Produto: Capa Coletor | Modelo: Capa com bandoleira para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:39] CONSULTA | Produto: Gatilho Coletor | Modelo: Gatilho para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:44] CONSULTA | Produto: HUB USB GRANDE | Modelo: BASEUS/HUB 4X1 ULTRAJOY | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:48] CONSULTA | Produto: JABRA/SPEAK 510 - (H) - | Modelo: JABRA/SPEAK 510 - (H) - | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:01:55] CONSULTA | Produto: MONITOR HP | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:00] CONSULTA | Produto: DESKTOP | Modelo: COMPUTADOR;ALIMENTACAO:110-240VCA;PROCESSADOR:INTEL CORE I5;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB;PLACA VIDEO:INTEL UHD GRAPHICS 630;MONITOR:S/MONITOR;DRIVERS:3 USB 2.0/5 USB 3.0/USB-C/RJ45;SISTEMA OPERACIONAL:WINDOWS 10 64BITS PROFESSIONAL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:04] CONSULTA | Produto: Carregador Notebook | Modelo: CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:08] CONSULTA | Produto: HEAD SET JABRA | Modelo: HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:13] CONSULTA | Produto: ANTENA STARLINK | Modelo: ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:17] CONSULTA | Produto: HUB USB C | Modelo: ADAPTADOR USB-C PARA HDMI, USB C E USB A | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:23] CONSULTA | Produto: PELICULA NOTEBOOK | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:28] CONSULTA | Produto: PELICULA | Modelo: PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:33] CONSULTA | Produto: CAPINHA | Modelo: CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:40] CONSULTA | Produto: PENDRIVE | Modelo: PENDRIVE 16GB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:46] CONSULTA | Produto: BATERIA DELL | Modelo: BATERIA RECARREGAVEL P/NOTEBOOK;NOTEBOOK:DELL VOSTRO 5480;TENSAO BATERIA:11,1V;BASE:ION LITIO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:50] CONSULTA | Produto: NOTEBOOK HP PROBOOK | Modelo: NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:02:55] CONSULTA | Produto: CABO HDMI 10M | Modelo: CABO TRANSMISSAO IMAGEM;CONECTOR:HDMI;CONSTRUCAO:RETO/90GR;COMPRIMENTO:10M;COR:PRETO;ACABAMENTO CONECTOR:DOURADO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:01] CONSULTA | Produto: PELICULA | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:08] CONSULTA | Produto: MONITOR | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP\HDMI\VGA\USB;DIAGONAL:24 POL;PONTOS\POL:0,27 PONTOS\POL;RESOLUCAO:1920X1080; F\R: DELL\P2425H | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:15] CONSULTA | Produto: COLETOR | Modelo: COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:21] CONSULTA | Produto: Teclado/Mouse | Modelo: Kit teclado/mouse sem fio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:27] CONSULTA | Produto: Capa Tablet | Modelo: Capa Anti impacto com alça tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:33] CONSULTA | Produto: Película Tablet | Modelo: Película Hydrogel para Tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:40] CONSULTA | Produto: Leitor | Modelo: LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:45] CONSULTA | Produto: HD para DVR | Modelo: HD DVR 10TB HD 10TB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:49] CONSULTA | Produto: Alicate | Modelo: ALICATE CAT 7EZ CRIM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:03:53] CONSULTA | Produto: Alcool | Modelo: 600016618-ALCOOL;ISOPROP;99,8GL;LIQ;1L;67-63-0 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] UPLOAD | Arquivo: teste.xlsx | Produtos identificados: 61
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Mouse sem fio USB
+[2026-03-31 15:05:15] CONSULTA | Produto: Mouse | Modelo: Mouse sem fio USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Pelicula de privacidade notebook 15polegadas
+[2026-03-31 15:05:15] CONSULTA | Produto: Pelicula | Modelo: Pelicula de privacidade notebook 15polegadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Emenda HDMI Fêmea x HDMI Fêmea
+[2026-03-31 15:05:15] CONSULTA | Produto: Adaptador HDMI | Modelo: Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4
+[2026-03-31 15:05:15] CONSULTA | Produto: Cabo HDMI 2 MTS | Modelo: Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4.
+[2026-03-31 15:05:15] CONSULTA | Produto: Cabo HDMI 10 MTS | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4. | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Carregador Iphone 13 Com cabo Tipo C
+[2026-03-31 15:05:15] CONSULTA | Produto: Carregador de celular | Modelo: Carregador Iphone 13 Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Carregador Xiomi  Com cabo Tipo C
+[2026-03-31 15:05:15] CONSULTA | Produto: Carregador de Celular | Modelo: Carregador Xiomi  Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: keystone Furukawa Rj45 Cat6
+[2026-03-31 15:05:15] CONSULTA | Produto: Conector keystone | Modelo: keystone Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Conector Furukawa Rj45 Cat6
+[2026-03-31 15:05:15] CONSULTA | Produto: Conector RJ45 | Modelo: Conector Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído
+[2026-03-31 15:05:15] CONSULTA | Produto: Headset | Modelo: Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Monitor de 22 polegadas DELL
+[2026-03-31 15:05:15] CONSULTA | Produto: Monitor 22" | Modelo: Monitor de 22 polegadas DELL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Bateria NOTEBOOK DELL LATITUDE 3480
+[2026-03-31 15:05:15] CONSULTA | Produto: Bateria | Modelo: Bateria NOTEBOOK DELL LATITUDE 3480 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N
+[2026-03-31 15:05:15] CONSULTA | Produto: Adptador wi-fi | Modelo: TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar).
+[2026-03-31 15:05:15] CONSULTA | Produto: Cabo Hdmi 10 mts | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Mochila Para Notebook 15.6 Essential 460-bctl Dell
+[2026-03-31 15:05:15] CONSULTA | Produto: Mochila para notebook | Modelo: Mochila Para Notebook 15.6 Essential 460-bctl Dell | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Hub usb tipo c para USB
+[2026-03-31 15:05:15] CONSULTA | Produto: HUB USB | Modelo: Hub usb tipo c para USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Iphone 13
+[2026-03-31 15:05:15] CONSULTA | Produto: Celular | Modelo: Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Teclado USB CC 10202017
+[2026-03-31 15:05:15] CONSULTA | Produto: Teclado USB | Modelo: Teclado USB CC 10202017 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G
+[2026-03-31 15:05:15] CONSULTA | Produto: SSD | Modelo: SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet
+[2026-03-31 15:05:15] CONSULTA | Produto: Fonte para desktop | Modelo: Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Redmi Note 13 Midnight Black 8Gb Ram 128Gb ROM
+[2026-03-31 15:05:15] CONSULTA | Produto: Celular Xiaomi | Modelo: Redmi Note 13 Midnight Black 8Gb Ram 128Gb ROM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm
+[2026-03-31 15:05:15] CONSULTA | Produto: Alicate Decapar | Modelo: PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max
+[2026-03-31 15:05:15] CONSULTA | Produto: Cabo celular | Modelo: Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Espumas Compatível Com Logitech H390 H 390 Almofadas
+[2026-03-31 15:05:15] CONSULTA | Produto: Espuma Headset | Modelo: Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Adaptador/Conversor HDMI para VGA com Áudio
+[2026-03-31 15:05:15] CONSULTA | Produto: Adaptador VGA para HDMI | Modelo: Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Fita durex
+[2026-03-31 15:05:15] CONSULTA | Produto: Durex | Modelo: Fita durex | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Pelicula para Xiaomi Note 11
+[2026-03-31 15:05:15] CONSULTA | Produto: Xiaomi | Modelo: Pelicula para Xiaomi Note 11 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Pelicula para Iphone 13
+[2026-03-31 15:05:15] CONSULTA | Produto: Apple | Modelo: Pelicula para Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Pelicula para smartphone
+[2026-03-31 15:05:15] CONSULTA | Produto: Pelicula para smartphone | Modelo: Pelicula para smartphone | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Etiqueta para etiquetadora
+[2026-03-31 15:05:15] CONSULTA | Produto: Brother | Modelo: Etiqueta para etiquetadora | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Adaptador rede para usb
+[2026-03-31 15:05:15] CONSULTA | Produto: HP | Modelo: Adaptador rede para usb | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Pelicula Motorola g84
+[2026-03-31 15:05:15] CONSULTA | Produto: Motorola | Modelo: Pelicula Motorola g84 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080
+[2026-03-31 15:05:15] CONSULTA | Produto: Samsung | Modelo: MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND
+[2026-03-31 15:05:15] CONSULTA | Produto: Intel | Modelo: MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Capa com bandoleira para coletor Honeywell EDA61K
+[2026-03-31 15:05:15] CONSULTA | Produto: Capa Coletor | Modelo: Capa com bandoleira para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Gatilho para coletor Honeywell EDA61K
+[2026-03-31 15:05:15] CONSULTA | Produto: Gatilho Coletor | Modelo: Gatilho para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: BASEUS/HUB 4X1 ULTRAJOY
+[2026-03-31 15:05:15] CONSULTA | Produto: HUB USB GRANDE | Modelo: BASEUS/HUB 4X1 ULTRAJOY | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: JABRA/SPEAK 510 - (H) -
+[2026-03-31 15:05:15] CONSULTA | Produto: JABRA/SPEAK 510 - (H) - | Modelo: JABRA/SPEAK 510 - (H) - | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080
+[2026-03-31 15:05:15] CONSULTA | Produto: MONITOR HP | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: COMPUTADOR;ALIMENTACAO:110-240VCA;PROCESSADOR:INTEL CORE I5;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB;PLACA VIDEO:INTEL UHD GRAPHICS 630;MONITOR:S/MONITOR;DRIVERS:3 USB 2.0/5 USB 3.0/USB-C/RJ45;SISTEMA OPERACIONAL:WINDOWS 10 64BITS PROFESSIONAL
+[2026-03-31 15:05:15] CONSULTA | Produto: DESKTOP | Modelo: COMPUTADOR;ALIMENTACAO:110-240VCA;PROCESSADOR:INTEL CORE I5;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB;PLACA VIDEO:INTEL UHD GRAPHICS 630;MONITOR:S/MONITOR;DRIVERS:3 USB 2.0/5 USB 3.0/USB-C/RJ45;SISTEMA OPERACIONAL:WINDOWS 10 64BITS PROFESSIONAL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm
+[2026-03-31 15:05:15] CONSULTA | Produto: Carregador Notebook | Modelo: CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR
+[2026-03-31 15:05:15] CONSULTA | Produto: HEAD SET JABRA | Modelo: HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE
+[2026-03-31 15:05:15] CONSULTA | Produto: ANTENA STARLINK | Modelo: ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: ADAPTADOR USB-C PARA HDMI, USB C E USB A
+[2026-03-31 15:05:15] CONSULTA | Produto: HUB USB C | Modelo: ADAPTADOR USB-C PARA HDMI, USB C E USB A | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL
+[2026-03-31 15:05:15] CONSULTA | Produto: PELICULA NOTEBOOK | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE
+[2026-03-31 15:05:15] CONSULTA | Produto: PELICULA | Modelo: PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE
+[2026-03-31 15:05:15] CONSULTA | Produto: CAPINHA | Modelo: CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: PENDRIVE 16GB
+[2026-03-31 15:05:15] CONSULTA | Produto: PENDRIVE | Modelo: PENDRIVE 16GB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: BATERIA RECARREGAVEL P/NOTEBOOK;NOTEBOOK:DELL VOSTRO 5480;TENSAO BATERIA:11,1V;BASE:ION LITIO
+[2026-03-31 15:05:15] CONSULTA | Produto: BATERIA DELL | Modelo: BATERIA RECARREGAVEL P/NOTEBOOK;NOTEBOOK:DELL VOSTRO 5480;TENSAO BATERIA:11,1V;BASE:ION LITIO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL
+[2026-03-31 15:05:15] CONSULTA | Produto: NOTEBOOK HP PROBOOK | Modelo: NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: CABO TRANSMISSAO IMAGEM;CONECTOR:HDMI;CONSTRUCAO:RETO/90GR;COMPRIMENTO:10M;COR:PRETO;ACABAMENTO CONECTOR:DOURADO
+[2026-03-31 15:05:15] CONSULTA | Produto: CABO HDMI 10M | Modelo: CABO TRANSMISSAO IMAGEM;CONECTOR:HDMI;CONSTRUCAO:RETO/90GR;COMPRIMENTO:10M;COR:PRETO;ACABAMENTO CONECTOR:DOURADO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL
+[2026-03-31 15:05:15] CONSULTA | Produto: PELICULA | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP\HDMI\VGA\USB;DIAGONAL:24 POL;PONTOS\POL:0,27 PONTOS\POL;RESOLUCAO:1920X1080; F\R: DELL\P2425H
+[2026-03-31 15:05:15] CONSULTA | Produto: MONITOR | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP\HDMI\VGA\USB;DIAGONAL:24 POL;PONTOS\POL:0,27 PONTOS\POL;RESOLUCAO:1920X1080; F\R: DELL\P2425H | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC
+[2026-03-31 15:05:15] CONSULTA | Produto: COLETOR | Modelo: COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Kit teclado/mouse sem fio
+[2026-03-31 15:05:15] CONSULTA | Produto: Teclado/Mouse | Modelo: Kit teclado/mouse sem fio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Capa Anti impacto com alça tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4"
+[2026-03-31 15:05:15] CONSULTA | Produto: Capa Tablet | Modelo: Capa Anti impacto com alça tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: Película Hydrogel para Tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4"
+[2026-03-31 15:05:15] CONSULTA | Produto: Película Tablet | Modelo: Película Hydrogel para Tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW
+[2026-03-31 15:05:15] CONSULTA | Produto: Leitor | Modelo: LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: HD DVR 10TB HD 10TB
+[2026-03-31 15:05:15] CONSULTA | Produto: HD para DVR | Modelo: HD DVR 10TB HD 10TB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: ALICATE CAT 7EZ CRIM
+[2026-03-31 15:05:15] CONSULTA | Produto: Alicate | Modelo: ALICATE CAT 7EZ CRIM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:05:15] CACHE_HIT | Modelo: 600016618-ALCOOL;ISOPROP;99,8GL;LIQ;1L;67-63-0
+[2026-03-31 15:05:15] CONSULTA | Produto: Alcool | Modelo: 600016618-ALCOOL;ISOPROP;99,8GL;LIQ;1L;67-63-0 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] UPLOAD | Arquivo: teste.xlsx | Produtos identificados: 61
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Mouse sem fio USB
+[2026-03-31 15:18:27] CONSULTA | Produto: Mouse | Modelo: Mouse sem fio USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Pelicula de privacidade notebook 15polegadas
+[2026-03-31 15:18:27] CONSULTA | Produto: Pelicula | Modelo: Pelicula de privacidade notebook 15polegadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Emenda HDMI Fêmea x HDMI Fêmea
+[2026-03-31 15:18:27] CONSULTA | Produto: Adaptador HDMI | Modelo: Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4
+[2026-03-31 15:18:27] CONSULTA | Produto: Cabo HDMI 2 MTS | Modelo: Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4.
+[2026-03-31 15:18:27] CONSULTA | Produto: Cabo HDMI 10 MTS | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4. | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Carregador Iphone 13 Com cabo Tipo C
+[2026-03-31 15:18:27] CONSULTA | Produto: Carregador de celular | Modelo: Carregador Iphone 13 Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Carregador Xiomi  Com cabo Tipo C
+[2026-03-31 15:18:27] CONSULTA | Produto: Carregador de Celular | Modelo: Carregador Xiomi  Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: keystone Furukawa Rj45 Cat6
+[2026-03-31 15:18:27] CONSULTA | Produto: Conector keystone | Modelo: keystone Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Conector Furukawa Rj45 Cat6
+[2026-03-31 15:18:27] CONSULTA | Produto: Conector RJ45 | Modelo: Conector Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído
+[2026-03-31 15:18:27] CONSULTA | Produto: Headset | Modelo: Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Monitor de 22 polegadas DELL
+[2026-03-31 15:18:27] CONSULTA | Produto: Monitor 22" | Modelo: Monitor de 22 polegadas DELL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Bateria NOTEBOOK DELL LATITUDE 3480
+[2026-03-31 15:18:27] CONSULTA | Produto: Bateria | Modelo: Bateria NOTEBOOK DELL LATITUDE 3480 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N
+[2026-03-31 15:18:27] CONSULTA | Produto: Adptador wi-fi | Modelo: TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar).
+[2026-03-31 15:18:27] CONSULTA | Produto: Cabo Hdmi 10 mts | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Mochila Para Notebook 15.6 Essential 460-bctl Dell
+[2026-03-31 15:18:27] CONSULTA | Produto: Mochila para notebook | Modelo: Mochila Para Notebook 15.6 Essential 460-bctl Dell | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Hub usb tipo c para USB
+[2026-03-31 15:18:27] CONSULTA | Produto: HUB USB | Modelo: Hub usb tipo c para USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Iphone 13
+[2026-03-31 15:18:27] CONSULTA | Produto: Celular | Modelo: Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Teclado USB CC 10202017
+[2026-03-31 15:18:27] CONSULTA | Produto: Teclado USB | Modelo: Teclado USB CC 10202017 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G
+[2026-03-31 15:18:27] CONSULTA | Produto: SSD | Modelo: SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet
+[2026-03-31 15:18:27] CONSULTA | Produto: Fonte para desktop | Modelo: Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Redmi Note 13 Midnight Black 8Gb Ram 128Gb ROM
+[2026-03-31 15:18:27] CONSULTA | Produto: Celular Xiaomi | Modelo: Redmi Note 13 Midnight Black 8Gb Ram 128Gb ROM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm
+[2026-03-31 15:18:27] CONSULTA | Produto: Alicate Decapar | Modelo: PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max
+[2026-03-31 15:18:27] CONSULTA | Produto: Cabo celular | Modelo: Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Espumas Compatível Com Logitech H390 H 390 Almofadas
+[2026-03-31 15:18:27] CONSULTA | Produto: Espuma Headset | Modelo: Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Adaptador/Conversor HDMI para VGA com Áudio
+[2026-03-31 15:18:27] CONSULTA | Produto: Adaptador VGA para HDMI | Modelo: Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Fita durex
+[2026-03-31 15:18:27] CONSULTA | Produto: Durex | Modelo: Fita durex | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Pelicula para Xiaomi Note 11
+[2026-03-31 15:18:27] CONSULTA | Produto: Xiaomi | Modelo: Pelicula para Xiaomi Note 11 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Pelicula para Iphone 13
+[2026-03-31 15:18:27] CONSULTA | Produto: Apple | Modelo: Pelicula para Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Pelicula para smartphone
+[2026-03-31 15:18:27] CONSULTA | Produto: Pelicula para smartphone | Modelo: Pelicula para smartphone | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Etiqueta para etiquetadora
+[2026-03-31 15:18:27] CONSULTA | Produto: Brother | Modelo: Etiqueta para etiquetadora | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Adaptador rede para usb
+[2026-03-31 15:18:27] CONSULTA | Produto: HP | Modelo: Adaptador rede para usb | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Pelicula Motorola g84
+[2026-03-31 15:18:27] CONSULTA | Produto: Motorola | Modelo: Pelicula Motorola g84 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080
+[2026-03-31 15:18:27] CONSULTA | Produto: Samsung | Modelo: MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND
+[2026-03-31 15:18:27] CONSULTA | Produto: Intel | Modelo: MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Capa com bandoleira para coletor Honeywell EDA61K
+[2026-03-31 15:18:27] CONSULTA | Produto: Capa Coletor | Modelo: Capa com bandoleira para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Gatilho para coletor Honeywell EDA61K
+[2026-03-31 15:18:27] CONSULTA | Produto: Gatilho Coletor | Modelo: Gatilho para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: BASEUS/HUB 4X1 ULTRAJOY
+[2026-03-31 15:18:27] CONSULTA | Produto: HUB USB GRANDE | Modelo: BASEUS/HUB 4X1 ULTRAJOY | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: JABRA/SPEAK 510 - (H) -
+[2026-03-31 15:18:27] CONSULTA | Produto: JABRA/SPEAK 510 - (H) - | Modelo: JABRA/SPEAK 510 - (H) - | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080
+[2026-03-31 15:18:27] CONSULTA | Produto: MONITOR HP | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: COMPUTADOR;ALIMENTACAO:110-240VCA;PROCESSADOR:INTEL CORE I5;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB;PLACA VIDEO:INTEL UHD GRAPHICS 630;MONITOR:S/MONITOR;DRIVERS:3 USB 2.0/5 USB 3.0/USB-C/RJ45;SISTEMA OPERACIONAL:WINDOWS 10 64BITS PROFESSIONAL
+[2026-03-31 15:18:27] CONSULTA | Produto: DESKTOP | Modelo: COMPUTADOR;ALIMENTACAO:110-240VCA;PROCESSADOR:INTEL CORE I5;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB;PLACA VIDEO:INTEL UHD GRAPHICS 630;MONITOR:S/MONITOR;DRIVERS:3 USB 2.0/5 USB 3.0/USB-C/RJ45;SISTEMA OPERACIONAL:WINDOWS 10 64BITS PROFESSIONAL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm
+[2026-03-31 15:18:27] CONSULTA | Produto: Carregador Notebook | Modelo: CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR
+[2026-03-31 15:18:27] CONSULTA | Produto: HEAD SET JABRA | Modelo: HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE
+[2026-03-31 15:18:27] CONSULTA | Produto: ANTENA STARLINK | Modelo: ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: ADAPTADOR USB-C PARA HDMI, USB C E USB A
+[2026-03-31 15:18:27] CONSULTA | Produto: HUB USB C | Modelo: ADAPTADOR USB-C PARA HDMI, USB C E USB A | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL
+[2026-03-31 15:18:27] CONSULTA | Produto: PELICULA NOTEBOOK | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE
+[2026-03-31 15:18:27] CONSULTA | Produto: PELICULA | Modelo: PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE
+[2026-03-31 15:18:27] CONSULTA | Produto: CAPINHA | Modelo: CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: PENDRIVE 16GB
+[2026-03-31 15:18:27] CONSULTA | Produto: PENDRIVE | Modelo: PENDRIVE 16GB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: BATERIA RECARREGAVEL P/NOTEBOOK;NOTEBOOK:DELL VOSTRO 5480;TENSAO BATERIA:11,1V;BASE:ION LITIO
+[2026-03-31 15:18:27] CONSULTA | Produto: BATERIA DELL | Modelo: BATERIA RECARREGAVEL P/NOTEBOOK;NOTEBOOK:DELL VOSTRO 5480;TENSAO BATERIA:11,1V;BASE:ION LITIO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL
+[2026-03-31 15:18:27] CONSULTA | Produto: NOTEBOOK HP PROBOOK | Modelo: NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: CABO TRANSMISSAO IMAGEM;CONECTOR:HDMI;CONSTRUCAO:RETO/90GR;COMPRIMENTO:10M;COR:PRETO;ACABAMENTO CONECTOR:DOURADO
+[2026-03-31 15:18:27] CONSULTA | Produto: CABO HDMI 10M | Modelo: CABO TRANSMISSAO IMAGEM;CONECTOR:HDMI;CONSTRUCAO:RETO/90GR;COMPRIMENTO:10M;COR:PRETO;ACABAMENTO CONECTOR:DOURADO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL
+[2026-03-31 15:18:27] CONSULTA | Produto: PELICULA | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP\HDMI\VGA\USB;DIAGONAL:24 POL;PONTOS\POL:0,27 PONTOS\POL;RESOLUCAO:1920X1080; F\R: DELL\P2425H
+[2026-03-31 15:18:27] CONSULTA | Produto: MONITOR | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP\HDMI\VGA\USB;DIAGONAL:24 POL;PONTOS\POL:0,27 PONTOS\POL;RESOLUCAO:1920X1080; F\R: DELL\P2425H | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC
+[2026-03-31 15:18:27] CONSULTA | Produto: COLETOR | Modelo: COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Kit teclado/mouse sem fio
+[2026-03-31 15:18:27] CONSULTA | Produto: Teclado/Mouse | Modelo: Kit teclado/mouse sem fio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Capa Anti impacto com alça tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4"
+[2026-03-31 15:18:27] CONSULTA | Produto: Capa Tablet | Modelo: Capa Anti impacto com alça tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: Película Hydrogel para Tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4"
+[2026-03-31 15:18:27] CONSULTA | Produto: Película Tablet | Modelo: Película Hydrogel para Tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW
+[2026-03-31 15:18:27] CONSULTA | Produto: Leitor | Modelo: LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: HD DVR 10TB HD 10TB
+[2026-03-31 15:18:27] CONSULTA | Produto: HD para DVR | Modelo: HD DVR 10TB HD 10TB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: ALICATE CAT 7EZ CRIM
+[2026-03-31 15:18:27] CONSULTA | Produto: Alicate | Modelo: ALICATE CAT 7EZ CRIM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:18:27] CACHE_HIT | Modelo: 600016618-ALCOOL;ISOPROP;99,8GL;LIQ;1L;67-63-0
+[2026-03-31 15:18:27] CONSULTA | Produto: Alcool | Modelo: 600016618-ALCOOL;ISOPROP;99,8GL;LIQ;1L;67-63-0 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:19:54] UPLOAD | Arquivo: teste.xlsx | Produtos identificados: 61
+[2026-03-31 15:20:00] CONSULTA | Produto: Mouse | Modelo: Mouse sem fio USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:07] CONSULTA | Produto: Pelicula | Modelo: Pelicula de privacidade notebook 15polegadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:14] CONSULTA | Produto: Adaptador HDMI | Modelo: Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:21] CONSULTA | Produto: Cabo HDMI 2 MTS | Modelo: Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:28] CONSULTA | Produto: Cabo HDMI 10 MTS | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4. | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:35] CONSULTA | Produto: Carregador de celular | Modelo: Carregador Iphone 13 Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:41] CONSULTA | Produto: Carregador de Celular | Modelo: Carregador Xiomi  Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:52] CONSULTA | Produto: Conector keystone | Modelo: keystone Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:20:58] CONSULTA | Produto: Conector RJ45 | Modelo: Conector Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:06] CONSULTA | Produto: Headset | Modelo: Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:13] CONSULTA | Produto: Monitor 22" | Modelo: Monitor de 22 polegadas DELL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:20] CONSULTA | Produto: Bateria | Modelo: Bateria NOTEBOOK DELL LATITUDE 3480 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:27] CONSULTA | Produto: Adptador wi-fi | Modelo: TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:33] CONSULTA | Produto: Cabo Hdmi 10 mts | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:40] CONSULTA | Produto: Mochila para notebook | Modelo: Mochila Para Notebook 15.6 Essential 460-bctl Dell | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:47] CONSULTA | Produto: HUB USB | Modelo: Hub usb tipo c para USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:21:55] CONSULTA | Produto: Celular | Modelo: Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:02] CONSULTA | Produto: Teclado USB | Modelo: Teclado USB CC 10202017 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:09] CONSULTA | Produto: SSD | Modelo: SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:16] CONSULTA | Produto: Fonte para desktop | Modelo: Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:23] CONSULTA | Produto: Celular Xiaomi | Modelo: Redmi Note 13 Midnight Black 8Gb Ram 128Gb ROM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:30] CONSULTA | Produto: Alicate Decapar | Modelo: PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:38] CONSULTA | Produto: Cabo celular | Modelo: Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:45] CONSULTA | Produto: Espuma Headset | Modelo: Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:49] CONSULTA | Produto: Adaptador VGA para HDMI | Modelo: Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:22:56] CONSULTA | Produto: Durex | Modelo: Fita durex | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:03] CONSULTA | Produto: Xiaomi | Modelo: Pelicula para Xiaomi Note 11 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:10] CONSULTA | Produto: Apple | Modelo: Pelicula para Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:16] CONSULTA | Produto: Pelicula para smartphone | Modelo: Pelicula para smartphone | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:23] CONSULTA | Produto: Brother | Modelo: Etiqueta para etiquetadora | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:30] CONSULTA | Produto: HP | Modelo: Adaptador rede para usb | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:37] CONSULTA | Produto: Motorola | Modelo: Pelicula Motorola g84 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:43] CONSULTA | Produto: Samsung | Modelo: MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:52] CONSULTA | Produto: Intel | Modelo: MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:23:59] CONSULTA | Produto: Capa Coletor | Modelo: Capa com bandoleira para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:24:11] CONSULTA | Produto: Gatilho Coletor | Modelo: Gatilho para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:24:17] CONSULTA | Produto: HUB USB GRANDE | Modelo: BASEUS/HUB 4X1 ULTRAJOY | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:24:27] CONSULTA | Produto: JABRA/SPEAK 510 - (H) - | Modelo: JABRA/SPEAK 510 - (H) - | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:24:35] CONSULTA | Produto: MONITOR HP | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:24:43] CONSULTA | Produto: DESKTOP | Modelo: COMPUTADOR;ALIMENTACAO:110-240VCA;PROCESSADOR:INTEL CORE I5;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB;PLACA VIDEO:INTEL UHD GRAPHICS 630;MONITOR:S/MONITOR;DRIVERS:3 USB 2.0/5 USB 3.0/USB-C/RJ45;SISTEMA OPERACIONAL:WINDOWS 10 64BITS PROFESSIONAL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:24:53] CONSULTA | Produto: Carregador Notebook | Modelo: CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:24:59] CONSULTA | Produto: HEAD SET JABRA | Modelo: HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:07] CONSULTA | Produto: ANTENA STARLINK | Modelo: ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:14] CONSULTA | Produto: HUB USB C | Modelo: ADAPTADOR USB-C PARA HDMI, USB C E USB A | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:20] CONSULTA | Produto: PELICULA NOTEBOOK | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:27] CONSULTA | Produto: PELICULA | Modelo: PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:34] CONSULTA | Produto: CAPINHA | Modelo: CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:41] CONSULTA | Produto: PENDRIVE | Modelo: PENDRIVE 16GB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:47] CONSULTA | Produto: BATERIA DELL | Modelo: BATERIA RECARREGAVEL P/NOTEBOOK;NOTEBOOK:DELL VOSTRO 5480;TENSAO BATERIA:11,1V;BASE:ION LITIO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:25:54] CONSULTA | Produto: NOTEBOOK HP PROBOOK | Modelo: NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:00] CONSULTA | Produto: CABO HDMI 10M | Modelo: CABO TRANSMISSAO IMAGEM;CONECTOR:HDMI;CONSTRUCAO:RETO/90GR;COMPRIMENTO:10M;COR:PRETO;ACABAMENTO CONECTOR:DOURADO | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:07] CONSULTA | Produto: PELICULA | Modelo: FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:14] CONSULTA | Produto: MONITOR | Modelo: MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP\HDMI\VGA\USB;DIAGONAL:24 POL;PONTOS\POL:0,27 PONTOS\POL;RESOLUCAO:1920X1080; F\R: DELL\P2425H | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:20] CONSULTA | Produto: COLETOR | Modelo: COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:26] CONSULTA | Produto: Teclado/Mouse | Modelo: Kit teclado/mouse sem fio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:33] CONSULTA | Produto: Capa Tablet | Modelo: Capa Anti impacto com alça tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:38] CONSULTA | Produto: Película Tablet | Modelo: Película Hydrogel para Tablet Samsung Galaxy S6 Lite - SM-P620 - 10.4" | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:41] CONSULTA | Produto: Leitor | Modelo: LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:46] CONSULTA | Produto: HD para DVR | Modelo: HD DVR 10TB HD 10TB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:52] CONSULTA | Produto: Alicate | Modelo: ALICATE CAT 7EZ CRIM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:26:59] CONSULTA | Produto: Alcool | Modelo: 600016618-ALCOOL;ISOPROP;99,8GL;LIQ;1L;67-63-0 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:27:12] UPLOAD | Arquivo: teste.xlsx | Produtos identificados: 61
+[2026-03-31 15:27:19] CONSULTA | Produto: Mouse | Modelo: Mouse sem fio USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:27:26] CONSULTA | Produto: Pelicula | Modelo: Pelicula de privacidade notebook 15polegadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:27:33] CONSULTA | Produto: Adaptador HDMI | Modelo: Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:27:40] CONSULTA | Produto: Cabo HDMI 2 MTS | Modelo: Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:27:46] CONSULTA | Produto: Cabo HDMI 10 MTS | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4. | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:27:53] CONSULTA | Produto: Carregador de celular | Modelo: Carregador Iphone 13 Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:02] CONSULTA | Produto: Carregador de Celular | Modelo: Carregador Xiomi  Com cabo Tipo C | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:10] CONSULTA | Produto: Conector keystone | Modelo: keystone Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:18] CONSULTA | Produto: Conector RJ45 | Modelo: Conector Furukawa Rj45 Cat6 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:25] CONSULTA | Produto: Headset | Modelo: Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:37] CONSULTA | Produto: Monitor 22" | Modelo: Monitor de 22 polegadas DELL | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:45] CONSULTA | Produto: Bateria | Modelo: Bateria NOTEBOOK DELL LATITUDE 3480 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:51] CONSULTA | Produto: Adptador wi-fi | Modelo: TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:28:55] CONSULTA | Produto: Cabo Hdmi 10 mts | Modelo: Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:01] CONSULTA | Produto: Mochila para notebook | Modelo: Mochila Para Notebook 15.6 Essential 460-bctl Dell | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:07] CONSULTA | Produto: HUB USB | Modelo: Hub usb tipo c para USB | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:13] CONSULTA | Produto: Celular | Modelo: Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:17] CONSULTA | Produto: Teclado USB | Modelo: Teclado USB CC 10202017 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:22] CONSULTA | Produto: SSD | Modelo: SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:27] CONSULTA | Produto: Fonte para desktop | Modelo: Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:32] CONSULTA | Produto: Celular Xiaomi | Modelo: Redmi Note 13 Midnight Black 8Gb Ram 128Gb ROM | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:38] CONSULTA | Produto: Alicate Decapar | Modelo: PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:45] CONSULTA | Produto: Cabo celular | Modelo: Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:52] CONSULTA | Produto: Espuma Headset | Modelo: Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:29:58] CONSULTA | Produto: Adaptador VGA para HDMI | Modelo: Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:05] CONSULTA | Produto: Durex | Modelo: Fita durex | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:12] CONSULTA | Produto: Xiaomi | Modelo: Pelicula para Xiaomi Note 11 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:18] CONSULTA | Produto: Apple | Modelo: Pelicula para Iphone 13 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:25] CONSULTA | Produto: Pelicula para smartphone | Modelo: Pelicula para smartphone | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:31] CONSULTA | Produto: Brother | Modelo: Etiqueta para etiquetadora | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:37] CONSULTA | Produto: HP | Modelo: Adaptador rede para usb | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:44] CONSULTA | Produto: Motorola | Modelo: Pelicula Motorola g84 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:51] CONSULTA | Produto: Samsung | Modelo: MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080 | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:30:57] CONSULTA | Produto: Intel | Modelo: MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:31:04] CONSULTA | Produto: Capa Coletor | Modelo: Capa com bandoleira para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:31:11] CONSULTA | Produto: Gatilho Coletor | Modelo: Gatilho para coletor Honeywell EDA61K | Marketplace: Mercado Livre | Resultados: 0
+[2026-03-31 15:31:18] CONSULTA | Produto: HUB USB GRANDE | Modelo: BASEUS/HUB 4X1 ULTRAJOY | Marketplace: Mercado Livre | Resultados: 0
+[2026-04-06 11:18:25] CONSULTA | Produto: Notebook | Modelo: Notebook | Marketplace: Mercado Livre | Resultados: 0
+[2026-04-06 11:19:07] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Mercado Livre | Resultados: 0
+[2026-04-06 11:19:14] CACHE_HIT | Modelo: Notebook
+[2026-04-06 11:19:14] CONSULTA | Produto: Notebook | Modelo: Notebook | Marketplace: Mercado Livre | Resultados: 0
+[2026-04-06 11:19:34] CONSULTA | Produto: Headset | Modelo: Headset | Marketplace: Mercado Livre | Resultados: 0
+[2026-04-06 11:24:40] CACHE_HIT | Modelo: Mouse
+[2026-04-06 11:24:40] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Mercado Livre | Resultados: 0
+[2026-04-06 11:31:27] CONSULTA | Produto: Monitor | Modelo: Monitor | Marketplace: Mercado Livre | Resultados: 0
+[2026-04-06 11:38:12] CONSULTA | Produto: Notebook | Modelo: Notebook | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:39:36] CACHE_HIT | Modelo: Notebook
+[2026-04-06 11:39:36] CONSULTA | Produto: Notebook | Modelo: Notebook | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:40:14] CONSULTA | Produto: Roteador | Modelo: Roteador | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:40:27] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:42:56] CONSULTA | Produto: Smartphone | Modelo: Smartphone | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:43:34] CONSULTA | Produto: Cadeira Ergonômica | Modelo: Cadeira Ergonômica | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:43:55] CONSULTA | Produto: Headset | Modelo: Headset | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:45:55] CACHE_HIT | Modelo: Headset
+[2026-04-06 11:45:55] CONSULTA | Produto: Headset | Modelo: Headset | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:46:10] CACHE_HIT | Modelo: Headset
+[2026-04-06 11:46:10] CONSULTA | Produto: Headset | Modelo: Headset | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:49:04] CACHE_HIT | Modelo: Notebook
+[2026-04-06 11:49:04] CONSULTA | Produto: Notebook | Modelo: Notebook | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:50:08] CONSULTA | Produto: Monitor | Modelo: Monitor | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 11:50:47] CONSULTA | Produto: teste | Modelo: teste | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:05:25] CACHE_HIT | Modelo: Mouse
+[2026-04-06 12:05:25] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:12:49] CACHE_HIT | Modelo: Notebook
+[2026-04-06 12:12:49] CONSULTA | Produto: Notebook | Modelo: Notebook | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:12:52] CACHE_HIT | Modelo: Monitor
+[2026-04-06 12:12:52] CONSULTA | Produto: Monitor | Modelo: Monitor | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:13:02] CONSULTA | Produto: Teclado | Modelo: Teclado | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:14:09] CACHE_HIT | Modelo: Mouse
+[2026-04-06 12:14:09] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:14:14] CACHE_HIT | Modelo: Monitor
+[2026-04-06 12:14:14] CONSULTA | Produto: Monitor | Modelo: Monitor | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:17:33] CACHE_HIT | Modelo: Teclado
+[2026-04-06 12:17:33] CONSULTA | Produto: Teclado | Modelo: Teclado | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:19:03] CACHE_HIT | Modelo: Mouse
+[2026-04-06 12:19:03] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:21:19] CACHE_HIT | Modelo: headset
+[2026-04-06 12:21:19] CONSULTA | Produto: headset | Modelo: headset | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 12:21:57] CONSULTA | Produto: Tablet | Modelo: Tablet | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-06 13:28:59] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Mercado Livre | Resultados: 5
+[2026-04-10 08:44:22] CACHE_HIT | Modelo: NOTEBOOK HP PROBOOK NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL
+[2026-04-10 08:44:22] CONSULTA | Produto: NOTEBOOK HP PROBOOK NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL | Modelo: NOTEBOOK HP PROBOOK NOTEBOOK;PROCESSADOR:INTEL CORE I5 1235U 4,4GHZ;MEMORIA VOLATIL:16GB RAM;MEMORIA FISICA:512GB MEMORIA;DRIVES/PORTAS:USB/HDMI/RJ45;SISTEMA OPERACIONAL:WINDOWS 11 PRO;DIAGONAL TELA:14POL | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:44:29] CONSULTA | Produto: Monitor | Modelo: Monitor | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:44:33] CONSULTA | Produto: Mouse | Modelo: Mouse | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:44:41] CACHE_HIT | Modelo: Adaptador HDMI Emenda HDMI Fêmea x HDMI Fêmea
+[2026-04-10 08:44:41] CONSULTA | Produto: Adaptador HDMI Emenda HDMI Fêmea x HDMI Fêmea | Modelo: Adaptador HDMI Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:44:48] CACHE_HIT | Modelo: Carregador de celular Carregador Iphone 13 Com cabo Tipo C
+[2026-04-10 08:44:48] CONSULTA | Produto: Carregador de celular Carregador Iphone 13 Com cabo Tipo C | Modelo: Carregador de celular Carregador Iphone 13 Com cabo Tipo C | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:45:01] CACHE_HIT | Modelo: Conector RJ45 Conector Furukawa Rj45 Cat6
+[2026-04-10 08:45:01] CONSULTA | Produto: Conector RJ45 Conector Furukawa Rj45 Cat6 | Modelo: Conector RJ45 Conector Furukawa Rj45 Cat6 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:56:34] CACHE_HIT | Modelo: Teclado/Mouse Kit teclado/mouse sem fio
+[2026-04-10 08:56:34] CONSULTA | Produto: Teclado/Mouse Kit teclado/mouse sem fio | Modelo: Teclado/Mouse Kit teclado/mouse sem fio | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:56:48] CACHE_HIT | Modelo: Brother Etiqueta para etiquetadora
+[2026-04-10 08:56:48] CONSULTA | Produto: Brother Etiqueta para etiquetadora | Modelo: Brother Etiqueta para etiquetadora | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:57:00] CACHE_HIT | Modelo: HUB USB Hub usb tipo c para USB
+[2026-04-10 08:57:00] CONSULTA | Produto: HUB USB Hub usb tipo c para USB | Modelo: HUB USB Hub usb tipo c para USB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:57:18] CACHE_HIT | Modelo: Teclado/Mouse Kit teclado/mouse sem fio
+[2026-04-10 08:57:18] CONSULTA | Produto: Teclado/Mouse Kit teclado/mouse sem fio | Modelo: Teclado/Mouse Kit teclado/mouse sem fio | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:57:36] CACHE_HIT | Modelo: Carregador de Celular Carregador Xiomi  Com cabo Tipo C
+[2026-04-10 08:57:36] CONSULTA | Produto: Carregador de Celular Carregador Xiomi  Com cabo Tipo C | Modelo: Carregador de Celular Carregador Xiomi  Com cabo Tipo C | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:57:59] CACHE_HIT | Modelo: HUB USB GRANDE BASEUS/HUB 4X1 ULTRAJOY
+[2026-04-10 08:57:59] CONSULTA | Produto: HUB USB GRANDE BASEUS/HUB 4X1 ULTRAJOY | Modelo: HUB USB GRANDE BASEUS/HUB 4X1 ULTRAJOY | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:58:17] CACHE_HIT | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído
+[2026-04-10 08:58:17] CONSULTA | Produto: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:58:53] CACHE_HIT | Modelo: Apple Pelicula para Iphone 13
+[2026-04-10 08:58:53] CONSULTA | Produto: Apple Pelicula para Iphone 13 | Modelo: Apple Pelicula para Iphone 13 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:59:06] CACHE_HIT | Modelo: Alicate ALICATE CAT 7EZ CRIM
+[2026-04-10 08:59:06] CONSULTA | Produto: Alicate ALICATE CAT 7EZ CRIM | Modelo: Alicate ALICATE CAT 7EZ CRIM | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:59:16] CACHE_HIT | Modelo: ANTENA STARLINK ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE
+[2026-04-10 08:59:16] CONSULTA | Produto: ANTENA STARLINK ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE | Modelo: ANTENA STARLINK ANTENA CJ P/INTERNET VIA SATELITE;QUANTIDADE ITENS:6;COMPOSICAO:ANTENA/SUPORTE/ROTEADOR;COMPOSICAO 2:CABO 15M/CABO 1,50M/FONTE | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:59:27] CACHE_HIT | Modelo: CAPINHA CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE
+[2026-04-10 08:59:27] CONSULTA | Produto: CAPINHA CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Modelo: CAPINHA CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:59:41] CONSULTA | Produto: Cadeira Ergonômica | Modelo: Cadeira Ergonômica | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 08:59:45] CONSULTA | Produto: Mesa de Trabalho | Modelo: Mesa de Trabalho | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 10:19:04] CONSULTA | Produto: Mouse Mouse sem fio USB | Modelo: Mouse Mouse sem fio USB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:05:00] CONSULTA | Produto: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Modelo: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:05:12] CONSULTA | Produto: HD para DVR HD DVR 10TB HD 10TB | Modelo: HD para DVR HD DVR 10TB HD 10TB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:08:58] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:09:02] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:09:13] CONSULTA | Produto: Gatilho Coletor Gatilho para coletor Honeywell EDA61K | Modelo: Gatilho Coletor Gatilho para coletor Honeywell EDA61K | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:09:23] CONSULTA | Produto: MONITOR HP MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080 | Modelo: MONITOR HP MONITOR VIDEO;TIPO TELA:IPS;ENTRADA:DP/HDMI/VGA/USB;DIAGONAL:22 POL;RESOLUCAO:1920X1080 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:09:29] CONSULTA | Produto: Mochila para notebook Mochila Para Notebook 15.6 Essential 460-bctl Dell | Modelo: Mochila para notebook Mochila Para Notebook 15.6 Essential 460-bctl Dell | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:09:32] CONSULTA | Produto: Mochila para notebook Mochila Para Notebook 15.6 Essential 460-bctl Dell | Modelo: Mochila para notebook Mochila Para Notebook 15.6 Essential 460-bctl Dell | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:11:32] CONSULTA | Produto: Fonte para desktop Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet | Modelo: Fonte para desktop Fonte Dell Optiplex 3040 Sff 180w 8 Pino + 4 Pino Outlet | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:15:24] CONSULTA | Produto: Cabo Hdmi 10 mts Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Modelo: Cabo Hdmi 10 mts Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:16:35] CONSULTA | Produto: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Modelo: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:16:46] CONSULTA | Produto: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:21:09] CONSULTA | Produto: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Modelo: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:21:19] CONSULTA | Produto: Pelicula Pelicula de privacidade notebook 15polegadas | Modelo: Pelicula Pelicula de privacidade notebook 15polegadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:21:41] CONSULTA | Produto: Mouse Mouse sem fio USB | Modelo: Mouse Mouse sem fio USB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-10 16:21:53] CONSULTA | Produto: Teclado/Mouse Kit teclado/mouse sem fio | Modelo: Teclado/Mouse Kit teclado/mouse sem fio | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:38:59] CONSULTA | Produto: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Modelo: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:39:17] CONSULTA | Produto: Adptador wi-fi TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N | Modelo: Adptador wi-fi TP-Link ADAPTADOR WIRELESS USB 300 MBPS (2 4 GHZ), TL-WN823N | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:39:27] CONSULTA | Produto: Conector RJ45 Conector Furukawa Rj45 Cat6 | Modelo: Conector RJ45 Conector Furukawa Rj45 Cat6 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:41:11] CONSULTA | Produto: PELICULA PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Modelo: PELICULA PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:41:26] CONSULTA | Produto: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Modelo: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:42:12] CONSULTA | Produto: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Modelo: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:42:21] CONSULTA | Produto: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Modelo: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:42:30] CONSULTA | Produto: PENDRIVE PENDRIVE 16GB | Modelo: PENDRIVE PENDRIVE 16GB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:43:22] CONSULTA | Produto: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Modelo: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:43:23] CONSULTA | Produto: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Modelo: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:47:01] CONSULTA | Produto: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:47:42] CONSULTA | Produto: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:47:50] CONSULTA | Produto: JABRA/SPEAK 510 - (H) - | Modelo: JABRA/SPEAK 510 - (H) - | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:48:25] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:49:01] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:49:12] CONSULTA | Produto: Mouse Mouse sem fio USB | Modelo: Mouse Mouse sem fio USB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:50:09] CONSULTA | Produto: Teclado USB Teclado USB CC 10202017 | Modelo: Teclado USB Teclado USB CC 10202017 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:50:29] CONSULTA | Produto: Teclado/Mouse Kit teclado/mouse sem fio | Modelo: Teclado/Mouse Kit teclado/mouse sem fio | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:51:08] CONSULTA | Produto: Adaptador HDMI Emenda HDMI Fêmea x HDMI Fêmea | Modelo: Adaptador HDMI Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:52:25] CONSULTA | Produto: Adaptador VGA para HDMI Adaptador/Conversor HDMI para VGA com Áudio | Modelo: Adaptador VGA para HDMI Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:52:53] CONSULTA | Produto: Cabo Hdmi 10 mts Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Modelo: Cabo Hdmi 10 mts Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4 (Cabo da sala de reuniões do G&C parou de funcionar). | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:55:30] CONSULTA | Produto: Cabo HDMI 10 MTS Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4. | Modelo: Cabo HDMI 10 MTS Cabo Hdmi 10 Metros Full HD 3D 4K Versão 1.4. | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:55:40] CONSULTA | Produto: Cabo HDMI 2 MTS Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4 | Modelo: Cabo HDMI 2 MTS Cabo Hdmi 2 Metros Full HD 3D 4K Versão 1.4 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:55:49] CONSULTA | Produto: HD para DVR HD DVR 10TB HD 10TB | Modelo: HD para DVR HD DVR 10TB HD 10TB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:56:23] CONSULTA | Produto: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Modelo: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:56:31] CONSULTA | Produto: COLETOR COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC | Modelo: COLETOR COLETOR DADOS PORTATIL;CONEXAO:USB 3.1/WIRELESS/BLUETOOTH;CAPACIDADE MEMORIA RAM:8GB MEMORIA RAM;DISPLAY:C/DISPLAY LED MULTI-TOUCH;ALIMENTACAO:BATERIA LITIO 3,60VCC | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:57:01] CONSULTA | Produto: Gatilho Coletor Gatilho para coletor Honeywell EDA61K | Modelo: Gatilho Coletor Gatilho para coletor Honeywell EDA61K | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:57:35] CONSULTA | Produto: Leitor LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Modelo: Leitor LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:58:05] CONSULTA | Produto: Alicate Decapar PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Modelo: Alicate Decapar PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:58:53] CONSULTA | Produto: Capa Coletor Capa com bandoleira para coletor Honeywell EDA61K | Modelo: Capa Coletor Capa com bandoleira para coletor Honeywell EDA61K | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:59:20] CONSULTA | Produto: Pelicula Pelicula de privacidade notebook 15polegadas | Modelo: Pelicula Pelicula de privacidade notebook 15polegadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 08:59:55] CONSULTA | Produto: PELICULA PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Modelo: PELICULA PELICULA PROTECAO CELULAR;MATERIAL:VIDRO;APLICACAO:DO CELULAR XIAOMI;MODELO:REDMI 9T;APRESENTACAO:EMBALAGEM 1 UNIDADE | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 09:00:37] CONSULTA | Produto: PELICULA FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Modelo: PELICULA FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 09:01:31] CONSULTA | Produto: Conector keystone keystone Furukawa Rj45 Cat6 | Modelo: Conector keystone keystone Furukawa Rj45 Cat6 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 17:54:41] CONSULTA | Produto: Adaptador VGA para HDMI Adaptador/Conversor HDMI para VGA com Áudio | Modelo: Adaptador VGA para HDMI Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 17:54:44] CONSULTA | Produto: Adaptador VGA para HDMI Adaptador/Conversor HDMI para VGA com Áudio | Modelo: Adaptador VGA para HDMI Adaptador/Conversor HDMI para VGA com Áudio | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 17:54:53] CONSULTA | Produto: Adaptador HDMI Emenda HDMI Fêmea x HDMI Fêmea | Modelo: Adaptador HDMI Emenda HDMI Fêmea x HDMI Fêmea | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-13 17:55:53] CONSULTA | Produto: Impressora | Modelo: Impressora | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:55:25] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:55:34] CONSULTA | Produto: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:58:23] CONSULTA | Produto: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:58:29] CONSULTA | Produto: JABRA/SPEAK 510 - (H) - | Modelo: JABRA/SPEAK 510 - (H) - | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:58:33] CONSULTA | Produto: Mouse Mouse sem fio USB | Modelo: Mouse Mouse sem fio USB | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:58:48] CONSULTA | Produto: Impressora | Modelo: Impressora | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:58:51] CONSULTA | Produto: Projetor | Modelo: Projetor | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:58:58] CONSULTA | Produto: Cadeira Ergonômica | Modelo: Cadeira Ergonômica | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:59:00] CONSULTA | Produto: Mesa de Trabalho | Modelo: Mesa de Trabalho | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:59:09] CONSULTA | Produto: CAPINHA CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Modelo: CAPINHA CAPA P/TELEFONE CELULAR;APLICACAO:XIAOMI REDMI 9T;MATERIAL:SILICONE;COR:INCOLOR;FECHAMENTO:ENCAIXE | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:59:15] CONSULTA | Produto: Headset | Modelo: Headset | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 11:59:19] CONSULTA | Produto: Smartphone | Modelo: Smartphone | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 12:00:08] CONSULTA | Produto: Smartphone | Modelo: Smartphone | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 12:00:23] CONSULTA | Produto: Iphone 13 | Modelo: Iphone 13 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 12:00:54] CONSULTA | Produto: Cabo celular Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Modelo: Cabo celular Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:26:58] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:32:57] CONSULTA | Produto: Intel MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND | Modelo: Intel MINICOMPUTADOR;EVOPCINTEL8GBSSD128GBWIND | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:33:03] CONSULTA | Produto: headset | Modelo: headset | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:33:05] CONSULTA | Produto: headset | Modelo: headset | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:33:12] CONSULTA | Produto: Samsung MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080 | Modelo: Samsung MONITOR VIDEO;TIPO TELA:IPS;TIPO MONITOR:FULL HD;ENTRADA:HDMI/DP/USB;DIAGONAL:24 POL;RESOLUCAO:1920X1080 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:33:21] CONSULTA | Produto: Cabo celular Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Modelo: Cabo celular Cabo Usb C Lightning 20w Turbo P/ iPhone 11 12 13 14 Pro Max | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:33:31] CONSULTA | Produto: Motorola Pelicula Motorola g84 | Modelo: Motorola Pelicula Motorola g84 | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:33:48] CONSULTA | Produto: Pelicula Pelicula de privacidade notebook 15polegadas | Modelo: Pelicula Pelicula de privacidade notebook 15polegadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:33:54] CONSULTA | Produto: PELICULA FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Modelo: PELICULA FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;COR MOLDURA:PRETA;TAMANHO:15,60POL | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:34:03] CONSULTA | Produto: Alicate Decapar PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Modelo: Alicate Decapar PlusCable Alicate De Decapar Utp Ftp E Coaxial Lt-S10 Cinza - Compatível Com Utp E Stp Cabos De 3.2Mm A 9.5Mm | Marketplace: Consulta Interna | Resultados: 1
+[2026-04-27 15:34:14] CONSULTA | Produto: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Modelo: SSD SSD Kingston A400, 240GB, 2.5, Sata III 6GB/s, Leitura 500MB/s, Gravacao 350MB/s, SA400S37-240G | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-04 15:00:36] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-04 15:00:41] CONSULTA | Produto: JABRA/SPEAK 510 - (H) - | Modelo: JABRA/SPEAK 510 - (H) - | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-04 15:00:45] CONSULTA | Produto: Teclado USB Teclado USB CC 10202017 | Modelo: Teclado USB Teclado USB CC 10202017 | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-07 09:40:28] CONSULTA | Produto: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Modelo: HEAD SET JABRA HEADSET;POTENCIA MAXIMA:10 MILI W;DIRECIONAMENTO:UNIDIRECIONAL;SENSIBILIDADE:-48/-44 DB;CONTROLE VOLUME:C/ CONTROLE VOLUME;FAIXA FREQUENCIA:150-7000HZ;COMPRIMENTO FIO:1,20M;CONEXAO:USB-A/USB-C;ABAFADOR:C/ABAFADOR | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-07 10:22:25] CONSULTA | Produto: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Modelo: Espuma Headset Espumas Compatível Com Logitech H390 H 390 Almofadas | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-07 10:22:33] CONSULTA | Produto: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Modelo: Headset Headset com fio USB Logitech H390 com Almofadas, Controles de Áudio Integrado e Microfone com Redução de Ruído | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-07 10:22:56] CONSULTA | Produto: PELICULA NOTEBOOK FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL | Modelo: PELICULA NOTEBOOK FILTRO PRIVACIDADE P/MONITOR;TIPO MONITOR:NOTEBOOK;TAMANHO:14POL | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-12 15:45:26] CONSULTA | Produto: Leitor LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Modelo: Leitor LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-12 15:45:29] CONSULTA | Produto: Leitor LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Modelo: Leitor LEITOR COD BARR;ZEBRA/DS2208SR7U2100AZW | Marketplace: Consulta Interna | Resultados: 1
+[2026-05-12 15:45:37] CONSULTA | Produto: Carregador Notebook CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm | Modelo: Carregador Notebook CARREGADOR DELL - 65 WATTS - CONECTOR 7.4mm | Marketplace: Consulta Interna | Resultados: 1

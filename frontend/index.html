@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Compras Corporativas</title>
+  <meta name="description" content="Clique em um produto do catálogo para ver os melhores preços e modelos disponíveis no Mercado Livre.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app-wrapper">
+
+    <!-- Header -->
+    <header class="header">
+      <div class="container header-inner">
+        <a href="#" class="logo" id="logo-link">
+          <div class="logo-icon">🏢</div>
+          <div class="logo-text">
+            <span class="logo-title">ComprasCorp</span>
+            <span class="logo-sub">Inteligência de Aquisição</span>
+          </div>
+        </a>
+        <div class="header-actions">
+          <div class="header-stats" id="header-stats">
+            <span id="stat-items">📦 0 itens</span>
+            <span id="stat-photos">🖼️ 0 fotos</span>
+            <span id="stat-depts">📂 0 deptos</span>
+          </div>
+          <div class="header-badge">
+            <div class="badge-dot"></div>
+            <span>Sistema Ativo</span>
+          </div>
+          <button class="btn-add-item btn-secondary" id="btn-auto-fotos" title="Buscar fotos automaticamente para todos os itens">
+            🖼️ Auto-fotos
+          </button>
+          <button class="btn-add-item" id="btn-abrir-modal" title="Adicionar item ao catálogo">
+            ＋ Novo Item
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main -->
+    <main class="main container">
+
+      <!-- Hero -->
+      <section class="hero compact">
+        <h1 class="hero-title">🛒 Catálogo Corporativo</h1>
+        <p class="hero-desc">
+          Encontre produtos e compare preços no Mercado Livre automaticamente.
+        </p>
+      </section>
+
+      <!-- Barra de busca do catálogo -->
+      <div class="catalog-toolbar">
+        <div class="catalog-search-wrap">
+          <span class="catalog-search-icon">🔍</span>
+          <input
+            type="text"
+            id="catalog-search"
+            class="catalog-search-input"
+            placeholder="Filtrar catálogo..."
+            autocomplete="off"
+          >
+        </div>
+        <div class="catalog-count" id="catalog-count">0 itens</div>
+      </div>
+
+      <!-- Navegação Interna de Catálogos (Escondida por padrão) -->
+      <div class="catalog-nav" id="catalog-nav" style="display: none; align-items: center; gap: 16px; margin-bottom: 24px;">
+        <button class="btn-secondary" id="btn-back-catalogs" style="padding: 6px 12px; font-size: 13px;">← Voltar</button>
+        <div id="breadcrumb-container" class="breadcrumb">
+          <!-- Populado via JS -->
+        </div>
+      </div>
+
+      <!-- Grid do catálogo -->
+      <section class="catalog-section" id="catalog-section">
+        <div class="catalog-grid" id="catalog-grid">
+          <!-- Populado via JS -->
+        </div>
+        <div class="empty-catalog" id="empty-catalog" style="display:none">
+          <div class="empty-icon">🗂️</div>
+          <div class="empty-title">Nenhum item encontrado</div>
+          <div class="empty-sub">Adicione itens ao catálogo ou ajuste o filtro.</div>
+        </div>
+      </section>
+
+      <!-- Painel de Resultados -->
+      <section class="results-panel" id="results-panel">
+
+        <!-- Cabeçalho do painel -->
+        <div class="panel-header">
+          <div class="panel-item-info" id="panel-item-info">
+            <span class="panel-item-icon" id="panel-item-icon">📦</span>
+            <div>
+              <div class="panel-item-nome" id="panel-item-nome">Produto</div>
+              <div class="panel-item-cat" id="panel-item-cat">Categoria</div>
+            </div>
+          </div>
+          <div class="panel-actions">
+            <span class="results-count" id="results-count">0 opções</span>
+            <button class="btn-secondary btn-export" id="btn-export">
+              <span>📥</span> Exportar Excel
+            </button>
+            <button class="btn-secondary" id="btn-fechar-painel">
+              <span>✕</span> Fechar
+            </button>
+          </div>
+        </div>
+
+        <!-- Stats rápidas -->
+        <div class="panel-stats" id="panel-stats">
+          <div class="pstat">
+            <div class="pstat-value" id="pstat-total">0</div>
+            <div class="pstat-label">Opções encontradas</div>
+          </div>
+          <div class="pstat">
+            <div class="pstat-value green" id="pstat-menor">—</div>
+            <div class="pstat-label">Menor preço</div>
+          </div>
+          <div class="pstat">
+            <div class="pstat-value" id="pstat-maior">—</div>
+            <div class="pstat-label">Maior preço</div>
+          </div>
+          <div class="pstat">
+            <div class="pstat-value blue" id="pstat-media">—</div>
+            <div class="pstat-label">Preço médio</div>
+          </div>
+        </div>
+
+        <!-- Filtro dos resultados -->
+        <div class="filter-bar">
+          <input type="text" class="search-input" id="search-input" placeholder="Filtrar resultados...">
+          <select class="sort-select" id="sort-select">
+            <option value="preco-asc">Menor Preço</option>
+            <option value="preco-desc">Maior Preço</option>
+            <option value="titulo-asc">Nome (A-Z)</option>
+          </select>
+        </div>
+
+        <!-- Cards de resultados -->
+        <div class="result-cards" id="result-cards">
+          <!-- Populado via JS -->
+        </div>
+
+      </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        Sistema de Compras Corporativas &copy; 2026 · Dados fornecidos pelo Mercado Livre
+      </div>
+    </footer>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast-container" id="toast-container"></div>
+
+  <!-- Loading Overlay -->
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="loading-ring"></div>
+    <div class="loading-text" id="loading-text">Buscando melhores opções...</div>
+    <div class="loading-step" id="loading-step">🔍 Consultando Mercado Livre...</div>
+  </div>
+
+  <!-- Modal: Adicionar Item -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div class="modal-icon">➕</div>
+      <h3 class="modal-title">Adicionar ao Catálogo</h3>
+      <p class="modal-desc">Informe o nome do produto. Ele ficará disponível para consulta de preços.</p>
+
+      <form id="form-novo-item" novalidate>
+        <div class="form-group">
+          <label class="form-label" for="novo-nome">
+            <span class="label-icon">📦</span> Nome do Produto
+          </label>
+          <input
+            type="text"
+            id="novo-nome"
+            class="form-input"
+            placeholder="Ex: Notebook, Impressora, Cadeira..."
+            maxlength="100"
+            required
+          >
+          <div class="form-error" id="erro-nome"></div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label class="form-label" for="novo-categoria">
+              <span class="label-icon">🏷️</span> Categoria <span class="optional">(opcional)</span>
+            </label>
+            <input
+              type="text"
+              id="novo-categoria"
+              class="form-input"
+              placeholder="Ex: Informática, Mobiliário..."
+              maxlength="60"
+            >
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="novo-icone">
+              <span class="label-icon">😀</span> Ícone <span class="optional">(emoji)</span>
+            </label>
+            <input
+              type="text"
+              id="novo-icone"
+              class="form-input"
+              placeholder="Ex: 💻 🖨️ 🪑"
+              maxlength="8"
+            >
+          </div>
+        </div>
+
+        <div class="modal-actions">
+          <button type="button" class="btn-secondary" id="modal-cancel">Cancelar</button>
+          <button type="submit" class="btn-salvar" id="btn-salvar-item">
+            <span>✓</span> Adicionar Item
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Modal: Confirmar Remoção -->
+  <div class="modal-overlay" id="modal-del-overlay">
+    <div class="modal modal-sm">
+      <div class="modal-icon">🗑️</div>
+      <h3 class="modal-title">Remover item?</h3>
+      <p class="modal-desc" id="modal-del-desc">Esta ação não pode ser desfeita.</p>
+      <div class="modal-actions">
+        <button class="btn-secondary" id="modal-del-cancel">Cancelar</button>
+        <button class="btn-danger" id="modal-del-confirm">Remover</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Consultar Detalhes do Item -->
+  <div class="modal-overlay" id="modal-details-overlay">
+    <div class="modal" style="max-width: 420px; text-align: center;">
+      <button class="modal-close" id="modal-details-close">✕</button>
+      
+      <div class="modal-icon" id="details-icon" style="margin: 0 auto 10px auto; font-size: 2.5rem; background: var(--bg-secondary); width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; border-radius: 50%;">📦</div>
+      <h3 class="modal-title" id="details-title" style="margin-bottom: 4px;">Nome do Produto</h3>
+      <p class="modal-desc" id="details-cat" style="margin-bottom: 20px; font-weight: 500; font-size: 0.9rem;">Categoria</p>
+      
+      <div style="margin: 0 -24px 20px -24px; background: #fff; padding: 20px 0; border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); position: relative;">
+        <img id="details-photo" src="" alt="Foto do Produto" style="max-width: 100%; max-height: 220px; object-fit: contain;">
+        <button id="btn-edit-photo" title="Adicionar ou alterar foto" style="position: absolute; bottom: 10px; right: 10px; background: rgba(0,0,0,0.6); color: white; border: none; border-radius: 4px; padding: 4px 8px; font-size: 0.8rem; cursor: pointer;">📷 Editar Foto</button>
+      </div>
+
+      <div style="text-align: left; background: var(--bg-secondary); padding: 16px; border-radius: 8px; font-size: 0.95rem; border: 1px solid var(--border-color);">
+        <p style="margin-bottom: 10px; display: flex; justify-content: space-between;">
+          <span style="color: var(--text-secondary);">Último Valor Pago:</span>
+          <strong id="details-price" style="color: var(--primary-color); font-size: 1.1rem;">R$ 0,00</strong>
+        </p>
+        <p style="margin-bottom: 10px; display: flex; justify-content: space-between;">
+          <span style="color: var(--text-secondary);">Modelo:</span>
+          <strong id="details-model" style="text-align: right; max-width: 60%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Padrão</strong>
+        </p>
+        <p style="margin-bottom: 0; display: flex; justify-content: space-between;">
+          <span style="color: var(--text-secondary);">Cor:</span>
+          <strong id="details-color">Preto</strong>
+        </p>
+      </div>
+
+      <div class="modal-actions" style="margin-top: 24px;">
+        <button class="btn-primary" id="modal-details-ok" style="width: 100%;">Fechar Consulta</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal: Auto-fotos Progress -->
+  <div class="modal-overlay" id="modal-autofotos-overlay">
+    <div class="modal" style="max-width: 480px;">
+      <div class="modal-icon">🖼️</div>
+      <h3 class="modal-title">Busca Automática de Fotos</h3>
+      <p class="modal-desc" id="autofotos-desc">Consultando o Mercado Livre para cada produto do catálogo...</p>
+
+      <div style="margin: 20px 0;">
+        <div style="display:flex; justify-content:space-between; font-size:0.82rem; color:var(--text-secondary); margin-bottom:6px;">
+          <span id="autofotos-current" style="max-width:70%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">Aguardando...</span>
+          <span id="autofotos-count">0 / 0</span>
+        </div>
+        <div style="background:var(--bg-secondary); border-radius:999px; height:10px; overflow:hidden; border:1px solid var(--border-color);">
+          <div id="autofotos-bar" style="background: linear-gradient(90deg,#6366f1,#8b5cf6); height:100%; width:0%; border-radius:999px; transition:width 0.5s ease;"></div>
+        </div>
+      </div>
+
+      <div style="display:flex; gap:20px; justify-content:center; font-size:0.9rem; margin-bottom:20px;">
+        <span>✅ <strong id="autofotos-success">0</strong> fotos</span>
+        <span>⚠️ <strong id="autofotos-failed">0</strong> sem foto</span>
+        <span>⏭️ <strong id="autofotos-skipped">0</strong> já tinham</span>
+      </div>
+
+      <div class="modal-actions">
+        <button class="btn-secondary" id="modal-autofotos-close" disabled style="width:100%;">Aguarde...</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
